@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "025f9d39-37de-4ff0-a92f-2ef03b491beb"
+      }
+    },
+    "owner": "maxime.kets"
   }
 }
